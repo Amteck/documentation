@@ -11,6 +11,10 @@
     padding-bottom: 0;
 }
 
+.docs-sidebar {
+    position: fixed;
+}
+
 .sub-title a {
     font-size: 16px;
 }
